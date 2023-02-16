@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906361873353",
+    "project_id": "medocs-17a30",
+    "storage_bucket": "medocs-17a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906361873353:android:8c63d521f7329503e8be18",
+        "android_client_info": {
+          "package_name": "com.entertainment.medkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906361873353-tnc6sh92ts38230t2nuuqbsp1sfj6kfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFkpaVS0ICgHBvOfeQ1hZKsfp9S43-nh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906361873353-tnc6sh92ts38230t2nuuqbsp1sfj6kfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
